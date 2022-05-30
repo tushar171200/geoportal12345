@@ -225,10 +225,7 @@ class App extends React.Component {
           />
         </div>
 
-        <div id="footer">
-          Powered by&nbsp;
-          <a href="https://www.sentinel-hub.com/">Sentinel Hub</a>
-        </div>
+       
       </div>
     );
   }
